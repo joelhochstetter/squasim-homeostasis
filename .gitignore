@@ -1,0 +1,5 @@
+*.pkl
+*.mp4
+*.pyc
+*.pdf
+.claude/ 
