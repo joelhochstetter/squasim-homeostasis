@@ -5,6 +5,7 @@ Engelman*, Hochstetter*, Baudin*, et al., Sexual dimorphism in epidermal stem ce
 Full details of the model can be found in the Supplementary Note.
 
 Github repository: [https://github.com/joelhochstetter/squasim-homeostasis](https://github.com/joelhochstetter/squasim-homeostasis)
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21997810.svg)](https://doi.org/10.5281/zenodo.21997810)
 
 
