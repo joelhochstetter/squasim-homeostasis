@@ -14,7 +14,7 @@ Joel Hochstetter (under the PhD supervision of Professor Ben Simons) is the sole
 
 The experimental data collected for this study that is modelled is included in this repository. This data was acquired by Dan Engelman and Anais Baudin, under the supervision of Cedric Blanpain.
 
-For questions on the codebase contact Joel Hochstetter (jthochstetter@gmail.com). 
+For questions on the codebase contact Joel Hochstetter [jthochstetter@gmail.com](mailto:jthochstetter@gmail.com). 
 
 
 # Overview of repository
