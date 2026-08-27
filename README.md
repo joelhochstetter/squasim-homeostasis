@@ -166,7 +166,7 @@ Dynamic regulation of tissue fluidization controls skin repair during wound heal
 # License
 This code is available under a [Attribution-NonCommercial-ShareAlike 4.0 International license](https://creativecommons.org/licenses/by-nc-sa/4.0/) 
 
-This license strictly prohibits commercial use of the code or derivatives. Any research, academic, or personal use is permitted.
+This license strictly prohibits commercial use of the code or derivatives. This includes the prohibition to use the code for the training of AI models for any commercial purpose. Any research, academic, or personal use is permitted.
 
 
 
