@@ -1,6 +1,6 @@
 # squasim-homeostasis
 This repository contains the code to run simulations and produce figures for the biophysical modelling part of the paper:
-Engelman*, Hochstetter*, Baudin*, et al., Sexual dimorphism in epidermal stem cell dynamics, Nature (2026)
+Engelman, D.*, Hochstetter, J.*, Bauduin*, A. et al. Sexual dimorphism in epidermal stem cell dynamics. Nature (2026). https://doi.org/10.1038/s41586-026-11159-2
 
 Full details of the model can be found in the Supplementary Note.
 
